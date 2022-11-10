@@ -43,6 +43,7 @@
 .thirdText:before {
     content: 'Tarot Cards';
     font-size: 16vw;
+    white-space: nowrap;
 }
 
 
@@ -87,7 +88,7 @@ header {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    margin-top: 80px;
+    margin-top: 70px;
     z-index: 1;
 }
 
